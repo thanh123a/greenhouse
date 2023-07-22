@@ -4,3 +4,4 @@
 # 2. automatically turn on the irrigation system
 # 3. automatically turn on the misting system
 # 4. automatically turn on the light
+# we can control the system through app/web Blynk Iot
